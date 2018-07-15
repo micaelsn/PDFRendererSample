@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_f6b82529490bb3b320c7e5c244fca742e94baf91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f3a8b858989c1fa4025e8fbcb687c40ad9c8816">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a56fff651c445b4b33bf748bbe8cbad1040a2ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f6f38f085e20b80aea34116fa7b7c2bb443d3b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4202eac05e88554896f281a49462ba0375398f3b">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e1ff9d6ad9733a0146b09ddcbc0ef803f3bd15ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_8bfea778ae0bd0e71f33ac7e5d01f3556c8a25af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_0d5026ed534ea52cefd774fc99e76b223f896b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_b78d2e984c6ae823341398da30f8482e48c9ae1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_1a59f64d9c965ddc7f5f94cc295b24f535b67ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_22b4cb0fc4c6c397a7a7b6674a41e89e6f49e2ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_4d687b0ce197daba091a99542c8eb8e3125c9e4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_c13d1f6cddced7d9055824d01b760c28555f5b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Micael\AndroidStudioProjects\PDFRendererSample-master\PDFRendererSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_d86642adbafadaccaddce284f93032a857055a66\classes.dex" />
+    </item>
+
+</items>
